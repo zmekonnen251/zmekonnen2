@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm Zelalem👋
 
 - 🌱 I’m currently learning at Microverse
 - 👯 I’m looking to collaborate on Projects

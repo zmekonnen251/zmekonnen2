@@ -13,13 +13,14 @@
 - 😄 Pronouns: He
 - ⚡ Fun fact:  I want people to remember about me about my positive and open minded attitude.
 
-![Zmekonnen251 github stats](https://github-readme-stats.vercel.app/api?username=zmekonnen251&show_icons=true&hide_border=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
-
-<a href="https://github.com/zmekonnen251?tab=overview"><img align="center" alt="Zelalems's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmekonnen251&layout=compact&langs_count=9&theme=blue-green&exclude_repo=Optifine-Mod-Coder-Pack-1.16.1,Projects"/>
+| <a href="https://github.com/zmekonnen251/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zmekonnen251&show_icons=true&include_all_commits=true&theme=blue-green&hide_border=true" alt="Zelalem Mekonnen's github stats" /></a> | <a href="https://github.com/zmekonnen251/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmekonnen251&layout=compact&theme=blue-green&hide_border=true" /></a> |
+| ------------- | ------------- |
   
   
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zmekonnen251&theme=blue-green" alt="More Zelalem Stats" /></p>
 </a>
+
+
 
 
 

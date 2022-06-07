@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact:  I want you to be remembered for my positive and open-minded attitude.
 
-| <a href="https://github.com/zmekonnen251/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zmekonnen21&show_icons=true&include_all_commits=true&theme=blue-green&hide_border=true" alt="Zelalem Mekonnen's github stats" /></a> | <a href="https://github.com/zmekonnen251/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmekonnen251&layout=compact&theme=blue-green&hide_border=true" /></a> |
+| <a href="https://github.com/zmekonnen251/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zmekonnen251&show_icons=true&include_all_commits=true&theme=blue-green&hide_border=true" alt="Zelalem Mekonnen's github stats" /></a> | <a href="https://github.com/zmekonnen251/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmekonnen251&layout=compact&theme=blue-green&hide_border=true" /></a> |
 | ------------- | ------------- |
   
   

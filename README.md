@@ -5,9 +5,10 @@
 # Hi there I'm Zelalem👋
 
 - 🌱 I am a Full-stack developer,recently graduated from Microverse.
-- 🤝I have built over several projects using tech stacks like ReactJs,Redux,MERN,Ruby on Rails,HTML,CSS,JavaScript,Material-UI,Tailwind CSS.
+- 🤝 I have built over several projects using tech stacks like ReactJs,Redux,MERN,Ruby on Rails,HTML,CSS,JavaScript,Material-UI,Tailwind CSS.
 - 👯 I’m looking to collaborate on both Front-end and Back-end projects.
 - ✔️  I am open to new remote opportunities.
+- 🧔 You can check my works on my [Portfolio](https://zelalem-mekonnen.netlify.app/) website.
 - 📫 How to reach me: [![Twitter](https://img.shields.io/twitter/follow/mek_zela?style=social)](https://twitter.com/mek_zela)
 [![Linkedin](https://img.shields.io/badge/-Zelalem-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zelalem-getachew/)](https://www.linkedin.com/in/thaianebraga/)
 [![GitHub](https://img.shields.io/github/followers/zmekonnen251?label=follow&style=social)](https://github.com/zmekonnen251)
